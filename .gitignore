@@ -9,3 +9,6 @@ reports
 *.dbf
 *.shx
 data/Census/*
+*.qgs~
+*.qgs
+*.cpg
